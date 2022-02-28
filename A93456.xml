@@ -1,0 +1,270 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sober vindication of the nobility, gentry and clergy of the Church of England: in answer to a late malicious pamphlet, entituled, A dialogue between Whig and Tory. : Licensed, Novemb. 28. 1693.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93456</idno>
+            <idno type="STC">Wing S4415A</idno>
+            <idno type="STC">ESTC R233299</idno>
+            <idno type="EEBO-CITATION">43077634</idno>
+            <idno type="OCLC">ocm 43077634</idno>
+            <idno type="VID">151731</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93456)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151731)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2274:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sober vindication of the nobility, gentry and clergy of the Church of England: in answer to a late malicious pamphlet, entituled, A dialogue between Whig and Tory. : Licensed, Novemb. 28. 1693.</title>
+               </titleStmt>
+               <extent>[4], 5-17 (i.e. 15) p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed, and sold by Randal Taylor, near Stationers-Hall,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>MDCXCIV [i.e. 1694]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errors in paging: 13-15 numbered 15-17, respectively.</note>
+                  <note>Imperfect: faded print and print show-through.</note>
+                  <note>Reproduction of original in: William Andrews Clark Memorial Library, University of California, Los Angeles, California.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Apologetic works.</term>
+               <term>Great Britain --  Politics and government --  1660-1714.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151731:1" rendition="simple:additions"/>
+            <p>A SOBER VINDICATION OF THE Nobility, Gentry and Clergy OF THE <hi>Church of England:</hi> IN ANSWER TO A Late Malicious Pamphlet, Entituled, <hi>A Dialogue between</hi> WHIG <hi>and</hi> TORY.</p>
+            <q>
+               <hi>Creſcit ſub pondere Virtus.</hi>
+            </q>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>LICENSED,</p>
+                  <closer>
+                     <dateline>
+                        <date>
+                           <hi>Novemb.</hi> 28. 1693.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>LONDON,</hi> Printed, and Sold by <hi>Randal Taylor,</hi> near <hi>Stationers-Hall,</hi> MDCXCIV.</p>
+            <p>Price Three Pence.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:151731:2"/>
+            <pb facs="tcp:151731:2" rendition="simple:additions"/>
+            <head>TO THE READER.</head>
+            <p>
+               <hi>A</hi> Certain Piece of <hi>Scrible,</hi> (being indeed a <hi>Julian</hi> kind of Handy-work) having lately ſtolen into the World, under the Title of A Dialogue be<g ref="char:EOLhyphen"/>tween <hi>Whig</hi> and <hi>Tory,</hi> &amp;c. Stolen indeed I may very well ſay; for Licenſe and Authority would bluſh to Entertain, or Countenance it. This Enthuſiaſt, having his Tongue once more toucht with his Republican Altar-Coal, has thus handed this doughty Brat abroad; and poſſibly the Dowdy may have met ſome favourable Reception, eſpecially amongſt the Zealots of his own Mark and Colour: For even the courſeſt Cubs never want kind Bears to lick 'em: And our own Pictures, tho never ſo deformed, are naturally our moſt beloved Darlings. To ſuch a Kindneſs, and ſuch a natural Affection and Tenderneſs, this <hi>Julian</hi> product may owe its lit<g ref="char:EOLhyphen"/>tle Good Fortune. However, to undeceive the Ignorant World, (for the Senſible part of mankind need it not) I ſhall take the Trouble, or rather the Pleaſure to unmask this <hi>Mormo,</hi> and ſet it forth at a much truer Light than the Cunning and Sophiſtry of the Politiek Author has brought it before us. For, as plauſible a pretext as it carrys, <hi>viz.</hi> his pretended Zeal for their Majeſties and their Government, 'tis worth our while to examine, if this fair Front above, has not the Cloven-foot beneath it. For, if Preaching up of Diviſion, Diſuniting of the popular Peace and Tranquility, by reviving the old Obſo<g ref="char:EOLhyphen"/>late
+<pb facs="tcp:151731:3"/>Names of <hi>Whig</hi> and <hi>Tory,</hi> does not look horridly ſuſpici<g ref="char:EOLhyphen"/>ous at this Time of Day, and carry the Seeds of Sedition, and F<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce of Confuſion along with it, let Reaſon and Impartia<g ref="char:EOLhyphen"/>lity Judge.</p>
+            <p>And therefore, as the Pariſh-Buckets ought to be ready, when the Coals are ſo near Blowing, and Fire-balls preparing, it is but the Duty of every Honeſt Man to be watchful as be deſires to quench his Danger, and guard his Roof. As ſuch, therefore, is this ſhort <hi>Anſwer</hi> publiſht to that Scurrilous (if that Epithete can reach it) Maſs of Malice and Rancour; and as ſuch, kind Reader, I preſent it to your peruſal.</p>
+            <p>I ſhall only add one preliminary Remark upon the Kidney and Conſtitution of a very Eminent Stickler of the <hi>Whig</hi> Party; who ſeeing the King's Meſſenger near <hi>White-hall,</hi> who in diſcharge of his Duty had endeavoured to ſuppreſs it at the Preſs, be was pleaſed to rebuke him in this Salutation, Mr. — <hi>Take notice, I lay my Finger on You</hi> (laying one his Fingers upon the Meſſengers Hands) <hi>and I will have you turned out of your Place, for you ſhall not long be a Meſſenger;</hi> with ſeveral other threatning Expreſſions.</p>
+            <p>Good Heaven, what an <hi>Anathema</hi> was here! Our <hi>Julian</hi>'s leaſt maledicting Touch carries the Force of the whole <hi>Romiſh Bell, Book,</hi> and <hi>Candle.</hi> Nay, his ſingle Finger has the operation of Dr. <hi>Fauſtus</hi> his <hi>conjuring Wand,</hi> and poſſibly actuated by the ſame Power, ſome kind aiding <hi>Mephiſto<g ref="char:EOLhyphen"/>philus,</hi> as a Faſt-friend and Familiar at his Elbow.</p>
+         </div>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>PAG. 5. l. 4. &amp; 5. after <hi>preſent Majeſties,</hi> 1. <hi>take my Sentiments thereof, as follow: As to your First Requeſt.</hi> p. 6. l. 36. add <hi>The,</hi> p. 7. l. 14. r. <hi>made.</hi> p. 15. l. 12. dele <hi>better.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="5" facs="tcp:151731:3" rendition="simple:additions"/>
+            <head>A SOBER VINDICATION OF THE Nobility, Gentry and Clergy OF THE <hi>Church of England,</hi> &amp;c.</head>
+            <head type="sub">In a Letter to a Friend.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>SInce you have honour'd me ſo far, as not only to deſire my Opinion of the Pamphlet you ſent me; but alſo to Anſwer ſome of the grand Reflections contained therein, upon the Church of <hi>England</hi>'s Loy<g ref="char:EOLhyphen"/>alty towards their preſent Majeſties; As to your firſt, take my Sentimen<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s thereof as follow: Requeſt, I ſay, and doubt not but every honeſt Man will concur with me upon reading thereof, That it is an in<g ref="char:EOLhyphen"/>famous Libel againſt the Church, State and good Manners: Which, tho theſe are (times of a deep Dye, yet do they ſcarce expreſs his unſeaſona<g ref="char:EOLhyphen"/>ble Hatred, which like an ill Humour in the Body, has ſo corrupted his whole Book, that I want words to Characterize ſo abominable a Miſtery of Iniquity. Againſt the <hi>Church</hi> it is moſt violent, to the State prejudi<g ref="char:EOLhyphen"/>cial, and in its Reflection on both, notoriouſly oppoſite to <hi>Good-manners:</hi> And laſtly, ſo fraught with diſingenuity and malicious untruths, that it may well cry out to him that is the Parent of Lies, <hi>Thou art my Father.</hi>
+            </p>
+            <p>His <hi>Epiſile</hi> is ſuperſcribed, <hi>To the Honeſt Engliſh Proteſtant Reader:</hi> That
+<pb n="6" facs="tcp:151731:4"/>is, doubtleſs, a <hi>Proteſtant</hi> of ſome ſurreptitious Edition of 41, whoſe Title is, <hi>No Biſhop,</hi> and, <hi>Down with Lawn Sleeves;</hi> for if, as moſt certain<g ref="char:EOLhyphen"/>ly he does mean one of his own Kidney, he muſt be ſome <hi>Kent-ſtreet</hi> Broom-maker or at leaſt ſuch an honeſt <hi>Engliſh Proteſtant,</hi> as is no well Wiſher to the Glorious <hi>Hierarchy</hi> of the <hi>Britiſh</hi> Church.</p>
+            <p>But what Errand does he bring to his <hi>Reader?</hi> Why truly, a very ſilly one: <q>for (ſays he) ſuch is our fate, That I am afraid, that it requires an abler Pen than mine, to convince ſome, who it is highly neceſſary ſhould be convinc<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d, That any of the Meaſures of the late Reigns were miſtaken. If this be all his Deſign, he might have ſav<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d himſelf the labour of this Dialogue;</q> for he muſt be fooliſhly obſtinate, That will not be convinc'd, that moſt or all Kings have at ſome time or other been miſtaken in their Meaſures; yet This, and the following Aſſertion, he ſays, were the Motives of his now appearing. Some are taught (ſays he) <q>that none were Rogues and Villains, and deſerve to be hang'd, but thoſe who were moſt Active in the bringing of the preſent King and Queen over, and in ſettling the Crowns upon their Heads.</q> By this <hi>Some that are taught<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> he would have to be underſtood the <hi>Church of England Men:</hi> Tho the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> is not plainer at Noon-day, than the <hi>Church of England</hi>'s Zeal has been perſpicuous (as he elſewhere confeſſes) in their ſending for, and advancing their preſent Majeſties to the Throne. Now, if he will needs have <hi>Some</hi> to believe, as, he ſays they do, it is only <hi>Some few,</hi> who not only are diſown'd by Us: but have ſeparated themſelves from the Church, by running head long into an impious Schiſm and Faction; for whom, as they do not belong to us, ſo are we in no ways accountable; nor ought their Crimes (as moſt maliciouſly thro' the whole <hi>Pamphlet</hi> they are) be in the leaſt (for the aforeſaid Reaſons) imputed and charged upon the Church.</p>
+            <p>Tell me truly (Good Sir) do you think, that this his Errand is of any more weight, than an <hi>April</hi> one; or that he deſerves any thing more, than the extention of the fore-finger amounts to, for his folly in blotting Paper to perſwade us, what we will eaſily grant, <hi>viz.</hi> That <hi>Some</hi> Kings have been miſtaken in their Meaſures: and that Some beheld the preſent Government, and their Friends, with an evil Eye; but that thoſe <hi>Some</hi> are of the <hi>Church of England,</hi> I utterly deny: and ſo I rid my hands of his Epiſtle.</p>
+            <p>
+               <hi>Dialogue</hi> is Diſcourſe betwixt <hi>Whig</hi> and <hi>Tory.</hi> By the Firſt he Points out a <hi>Presbiterian,</hi> by the Latter the <hi>Church of England</hi> Proteſtant, whom I intend to defend in this my <hi>Anſwer,</hi> as fully as the narrow Confines of my limits will permit; not doubting, but my ſucceſs will be according to the Juſtice of my Cauſe, and the Righteouſneſs of my Aſſertions, and with<g ref="char:EOLhyphen"/>all (if he were not as he ſays inſenſible) make him to bluſh at his abuſe of the King's Mercy, Favour and Friendſhip to ſuch ingrateful Wretches.</p>
+            <pb n="7" facs="tcp:151731:4" rendition="simple:additions"/>
+            <p>Well, the old Trade of Basket-making I find goes on ſtill: <hi>Whig</hi> is harping his ominous Schriech-Owl Noats upon the old String; cries loud againſt Misfortunes, bad Inſtruments, Miſmanagement of Affairs, Tools of State; and by and by you ſhall hear him ſqueak out in the old Key of 41, to the <hi>Tune of Evil Councellors, Popery and Slavery, Liberty and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>roper<g ref="char:EOLhyphen"/>ty,</hi> &amp;c. The reaſon of all this is, becauſe he<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s impatient of all Government, as long as he bears not all the Power upon his own Should<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs; Becauſe Men deſerving are put in Offices of Truſt, which his <hi>Boanarges</hi> Zeal of oppreſſing all but himſelf, makes him unfit for. To prove the reaſona<g ref="char:EOLhyphen"/>bleneſs of his claim to Places and Power, he tells us a ſtory, which every Man that has not as much loſt his Memory, as <hi>Whig</hi> has done all ſenſe of Shame, knows to be a Lye, which is, that <hi>he zealouſly ſtrugled in the Convention to ſettle the Monarchy, whilſt the Torys</hi> [Church of England men] <hi>conteſted to make an Anarchy.</hi> And this meddler <hi>Whig,</hi> to expect to be a main Stickler in the Government, which he thinks is never enough in his hands, while any body beſides himſelf has the leaſt ſhare of the Kings Favour.</p>
+            <p>
+               <hi>Diſapointment</hi> (ſays he) <hi>you muſt allow a juſt cauſe of Reſentment.</hi> This Hypotheſis (by his leave) is not always true, and cannot be allowed of when his expectations are unreaſonable or unlawful: As when he deſires men to be wholly diſcarded from Truſt, who chiefly, if not only, are qualify'd by the Law and their own Merits, for the adminiſtration of Affairs: and when he expects <hi>New Laws</hi> to deſtroy, and quite ſubvert the old ones; up-ſtart <hi>Miniſters,</hi> to ſhoulder and thruſt out thoſe whom Integrity, Experience and Fidelity highly pleads for their continuance in the Service of their Country: And laſtly, when he deſires to introduce new <hi>Cuſtoms</hi> and <hi>Methods,</hi> which by the greateſt and moſt experienc<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d Po<g ref="char:EOLhyphen"/>lititians have been ever found difficult to do, for the moſt part, dange<g ref="char:EOLhyphen"/>rous, and laſtly, never enterpriz'd without the greateſt preeaution imagi<g ref="char:EOLhyphen"/>nable; and when invincible neceſſity puſh'd them upon ſuch deſignes. But all this cannot remove his preſent Diſcontent, nor make him hope for Advancement, when it may with leſs danger, and more ſpecious pre<g ref="char:EOLhyphen"/>tences be done. No, this <hi>Jehu</hi> will have his Carriere, reſolving either to wriggle himſelf into the Government, or ruine it; tho its fall be ac<g ref="char:EOLhyphen"/>companied, through his fatal precipitation, with his own Deſtruction.</p>
+            <p>Beſides, the friendſhip of <hi>Whigs</hi> with Potentates, has been found upon Tryal, more than once to figure out to us, That of the old Wall and Green-vie; which latter is of ſmall advantage to, and ſucks its nouriſh<g ref="char:EOLhyphen"/>ment from the Cement of the Wall, and inſhort undermines it, ſo that down they fall to the very ground to gether. What gets the fawning Ivie, That Whiggiſh Emblem, by this? Even nothing; but either dyes, or at beſt is poorly content to creep upon the Earth, not being able
+<pb n="8" facs="tcp:151731:5"/>to raiſe it ſelf: and only ſeems Powerful, in deſtroying his kind Sup<g ref="char:EOLhyphen"/>porter.</p>
+            <p>But let us a little examine the Truth of his Aſſertion, about the late Con<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ention before-mention'd: Who is it, in the name of Madneſs, can be<g ref="char:EOLhyphen"/>lieve <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat he whoſe Principles are notoriouſly known to center in the very Dreggs of Democracy; whoſe Cants has for many years been no<g ref="char:EOLhyphen"/>thing, but ſo many encomiums upon a Common Wealth; and who has al<g ref="char:EOLhyphen"/>ways been obſerved to have a more than ordinary hanckering, to project and tranſcribe a Government for <hi>England,</hi> after the <hi>Belgick Copy;</hi> or at beſt, for all his fair pretences to the contrary, after ſome Ariſtocratical Original.</p>
+            <p>Further, The improbability of his advancing their preſent Majeſties, will amply appear, if you conſider the Circumſtances of <hi>Whig,</hi> at and a little before the Revolution. Call to mind then his addreſſing the late King, with Heart and Hand, with frequent promiſes of aſſiſting him to the utmoſt, with Lives and Fortunce, with Men and Money. Can their Noyſie Prayers, their loud Praiſes, and all their hideous pother, be out of any <hi>Engliſh</hi> Mans Ears to this day, that ſo lately made moſt ſenſible impreſ<g ref="char:EOLhyphen"/>ſions in our very Hearts? who has not known their more than double di<g ref="char:EOLhyphen"/>ligence, in ſerving a Turn, and being meer Tools and machines, to build up and prop a Popiſh Intereſt with; to no other end, but to gratifie their piquiſh Humour, and irreconcilable Malice againſt the Church party; not caring, if the whole Frame of Government ſuffer'd Shipwrack, by the violence of the open Storms of Tyranny, and ſecret the Quickſands of Court-Intrigues; having only this poor reſerve to countenance the buſineſs of their actions, That if they could by any means whatſoever, but ſink the ſtately Ark of our Engliſh Hierarchy, and procure the Dilapidation of our Magnificent Monarchy, that then they did not fear but, inſpight of all Popiſh oppoſition, to gather up ſcattered Pieces enough from the Ru<g ref="char:EOLhyphen"/>ines of both, where-with to erect not only their Conventicle, but alſo their Darling Common-Wealth. Thus you may ſee, for all their brave Alls, what ſort of affection they bear to their Country, and to Liberty and Property, when they will venture a Mark to a Groat odds, to Deſtroy all Monarchy for Anarchy, all Rule for Confuſion: Yet, that this was their deſign, is notoriouſly known by ſeveral, to whom they intimated no leſs, even when they were meditating their deſperate Revenge, un<g ref="char:EOLhyphen"/>der the umbrage of King <hi>J.</hi> whoſe Miſgovernment, and our Misfortunes does (God knows in what meaſure) lye at their Doors. This being ſo; who can imagin that they, whoſe hopes depend on the Deſtruction of the Church and State, which they thought by that King's help to effect, would in the leaſt contribute either to the ſending for, or the eſtabliſhing of their Preſent Majeſties, whom, they had reaſon to guefs, would bring aſſi<g ref="char:EOLhyphen"/>ſtance
+<pb n="9" facs="tcp:151731:5" rendition="simple:additions"/>to our Religion and Country; and may to their Grief now ſee the<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> eminent Profeſſers of the one, and true Defenders of both. But this that I now lay to <hi>Whig</hi>'s Charge, I would not have underſtood of all that are rang'd in that Claſs, or known by that Name; but only Some which he owns to be Knaves <hi>Pag.</hi> 19. and let me add, whoſe Ignorance and Malice made them fit Inſtruments for the late King to ruin, or at leaſt break in upon the Church: Thus much once for all.</p>
+            <p>That their numbers in the Convention were unable to effect what they pretended to, is thus eaſily proved:</p>
+            <p>
+               <hi>Firſt,</hi> Becauſe the <hi>Church of England</hi>-men, being moſt apprehenſive of danger from the late Reign, they conſequently, in all probability, would be the moſt active to get into the Convention, or elſe they would ſeem to ſuffer that willingly from the <hi>Whigs,</hi> which under King <hi>James</hi> and <hi>Cromwell</hi> they bore with no ſmall regret and uneaſineſs. The want of Employs, and loſs of Property, are no Trifles.</p>
+            <p>Next, that the number of the <hi>Church of England</hi>-men made, by far <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he very greateſt Body in the Convention, will appear, if you conſider the unwearied endeavours and different means the late King us<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d by <hi>Quo Warrantos,</hi> by Pentions, by giving Offices, by Promiſes, by Careſſes, and by I know not what, to procure a Parliament of Diſſenters, to ſerve his Turn with all; and diveſt the Church of her Power, by taking off the <hi>Teſt</hi> and <hi>Penal-Laws,</hi> which the Epiſcopal Men were averſe to; reſol<g ref="char:EOLhyphen"/>ving not to quit their hold of the two Reigns, which moſt effectually held in the ſtiff-neck of Popery. Now 'tis as plain as the Noſe of a mans Face, that, that King would never have made ſuch choping-work, ſuch regulations, if other ways he could got a Parliament of <hi>Whig</hi>'s Kidney, who, in plain Engliſh, for all his pretentces now, were then the main men that put their hands to the Plough, tho with no better intention than to be<g ref="char:EOLhyphen"/>tray him to ruin by their Councils, to bring us to Poverty and want of Places by your Pride, and to make havock of all by the force of their ſevere Malice: Thus all men may ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e whether <hi>Whigs</hi> or <hi>Torys,</hi> whether Con<g ref="char:EOLhyphen"/>formiſts or Nonconformiſt, whether the Orthodox or Heterodox were moſt numrous in the Convention; and conſequently, who it is that de<g ref="char:EOLhyphen"/>ſerves all the Encomiums he is pleaſed to attribute to them through his whole Book: for all his boaſts and title to Preferment ſtood upon this ground, which you ſee has ſunk under him. Here if you conſider the Churches diſcontents before, and their number in the Convention, he be<g ref="char:EOLhyphen"/>ing beat from his Fortreſs, let us ask theſe Queſtions. <hi>Pray,</hi> Sir, <hi>who ſhew'd the moſt early inclinations to the Prince of</hi> Oranges <hi>perſon? who went into Holland and firſt begun the Project of the Prince of</hi> Orange<hi>'s coming over? Who put the Crown upon his Head, when he did come? Who ſhew'd moſt appa<g ref="char:EOLhyphen"/>rent partiality to his Perſon, in all the points of the ſettlement of the Crown, and
+<pb n="10" facs="tcp:151731:6"/>particularly in giving it him for Life, over looking at the ſame time the P. of</hi> D<hi>'s. Title, and Lineal Succeſſion? And ſtood by the Kings Authority in the de<g ref="char:EOLhyphen"/>bate concerning the P. of</hi> D<hi>'s Revenue, and left that Affair entirely to the Kings Pleaſure?</hi> And laſtly, who had ſuch care of the people in their deliberate Conſideration about Chimney-Money? And let me ask, who for libelling the Government, deſerve the ill uſage and requital from their preſent Majeſties, which the Libeller all a long taxes the King and his Miniſters with?</p>
+            <p>What has been ſaid, may alſo prove, Who are the true Defenders of their Country; and refel his many and malicious ſlanders upon that Church, whoſe Morals and Piety, for all his prate, <hi>pag.</hi> 45. <hi>&amp;c.</hi> endeavour'd tooth and nail, to keep out that very Popery and other Grievances which his Fa<g ref="char:EOLhyphen"/>ction, as every one knows, helpt to pull in by Head and Shoulders.</p>
+            <p>The Behaviour of thoſe perſons he oft inveighs againſt, we neither countenance nor own; but utterly explode and excommunicate from our Church and Communion, tell we ſee ſome ſignals of their Recantation, an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ncere Repentance. Further, we own as much as ever, the Doctrine of <hi>Paſſive-Obedience</hi> and <hi>Non-Reſiſtance.</hi> Laſtly, I ſay, our prayers for the King are Audible and Voluntary, and no ways Mercenary, as he moſt Calumniouſly does Inſinuate.</p>
+            <p>As for his Aſſertion, That we take the Oaths to this King only as he is King <hi>de facto,</hi> and not <hi>de june,</hi> I deny to be true; nor has he produc'd one of the <hi>Church of England,</hi> that ever declar'd he took them ſo; or with any mental Reſervation whatſoever: all Equivocation and Palliation being abhord by us, as contrary to the Principles of our Religion.</p>
+            <p>Now, I will ſpeak a word or two, in behalf of thoſe worthy perſons, his Malice ſeems to carry the ſharpeſt edge againſt; but I will be as brief as poſſible: Becauſe their Integrity is beſt known to the King and Parlia<g ref="char:EOLhyphen"/>ment, and to them only accountable. Their Character ſo eminent, that they can no more be hurt by the noyſe of ſuch drivling. Caitives than the Moon can be prejudiced by the howling of diſtracted Curs: over and a<g ref="char:EOLhyphen"/>bove this, if the Libellers bowlling chance to reach their Ears, they can eaſily ſtop the bellowings of ſuch a diminitive Beaſt. The Law is a Receipt worth forty Rattles, to quiet the cries of theſe Children of Ini<g ref="char:EOLhyphen"/>quity. Thus much in General.</p>
+            <p>This I dare ſay particularly for the <hi>M</hi>— of <hi>C</hi>—, That he is a Star of the firſt Magnitude who has always waited upon our <hi>Britiſh Sun,</hi> our Fountain of Light, Honour and Glory, from whence are emitted ſuch Beams of Luſture, upon him as the evil Eyes of our twilight Animal cannot without being bleard, ſo much as behold the leaſt glimps thereof; and that his <hi>Integri<g ref="char:EOLhyphen"/>ty</hi> is as great as his Truſt: Yet, he pretends to eater into the very inmoſt Receſſes of his Generous Heart; and put upon all his actions, the moſt wreſted interpretation Hell and an ill 'Tongue can foment.</p>
+            <pb n="11" facs="tcp:151731:6" rendition="simple:additions"/>
+            <p>Well, but what does this Fellow mean by railling againſt ſo barve a Patriot of his Country, and others of the like Figure? Why, ill tell you, the Cry of Evil Counſellors is to, an attempt upon the King and Go<g ref="char:EOLhyphen"/>vernment with ſome men, what Grace before Dinner is to the reſt. Look about you, for the next thing, is fall on. That this is true, I could bring more than one. Brecedent to juſtifie. Hounds of this Pack, by ſuch crys, get a double advantage, for firſt it breads jealouſies betwixt Kings and their great Miniſters; and again, betwixt the latter and the Common-people; all which proves an infallible <hi>Remora</hi> to the preſent Affairs: For the main wheels once ſtopt, muſt needs produce a ceſſation of motion in the leſs. <hi>Secondly,</hi> the forces which keeps the Miſcreants from executing their pernitions deſigns, being once divided, opens the way to their entrance in<g ref="char:EOLhyphen"/>to miſchievous Actions; and their follows nothing but Ruin and Depredati<g ref="char:EOLhyphen"/>ons in Church and State. Therefore, in ſuch Junctures, may all Kings and Miniſters ſtand upon their Guard; while to them, and to the Law, I leave the correction of ſuch baſe Defamours as I have at this time to deal with.</p>
+            <p>To what he intimates of the Churches ſeverity to Diſſenters, I will on<g ref="char:EOLhyphen"/>ly ſay, that ſhe was never without a great tenderneſs to them when Reaſons of State, her own ſafety, and their behaviour rendred it ſeaſonable.</p>
+            <p>Next, He ſtrives to prove, and that with all his might too, how a<g ref="char:EOLhyphen"/>verſe, and what Step-fathers the <hi>Whigs</hi> are grown, ſince 1660, to their <hi>Benjamin,</hi> their Darling Common-Wealth. Should I grant them what his Arguments ſet forth; which is only the difficulty of turning this Monar<g ref="char:EOLhyphen"/>chy into a Common-Wealth; yet, ſince I have lately ſeen them pregnant with Endavours and frequent Attempts to effect it, I can hardly believe, but that if Common-Wealth mongers and Madmen among us, are the ſame, we muſt e'en put <hi>Whig,</hi> and them together; and that being done, fairly pack up with the Knaves that were Trump in <hi>Forty One.</hi>
+            </p>
+            <p>Before I quite rid my ſelf of this Buſineſs, it will not be amiſs to in<g ref="char:EOLhyphen"/>form our Libeller, how far he is out in point of Hiſtory; for ſays he, <hi>The People, nd Army, who were in this Project of a Common-wealth, and had over<g ref="char:EOLhyphen"/>thrown the Monarchy in order to it, and cou'd ſupport</hi> Cromwel <hi>in a ſingle Perſon; yet after his Death, ſaw a neceſſity of reſtoring the Monarchy again, and aſſiſted towards it.</hi> Herein he is out, for it was the <hi>Independants</hi> and <hi>Anabaptiſts</hi> that ſupported <hi>Cromwell,</hi> and were ſuch Sticklers for the Cauſe, that they never ſo much as thought of laying it down inorder to reſtore the Monarchy, had they not been forc'd to it by othergets neceſſities than what he alledges. So that this cannot prove the <hi>Whigs</hi> to have laid by their Republican Principles, if <hi>Anabaptiſts</hi> and <hi>Independants</hi> are ſo.</p>
+            <p>All the duſt he raiſes about Encroachment upon <hi>Parliaments, and working Princes up to Jealouſie, and hatred of their people,</hi> is like to fly into his own Eyes; if we conſider his behaviour in the late Reign, and under <hi>Oliver<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi>
+               <pb n="12" facs="tcp:151731:7"/>where Fellows of the ſame batch with himſelf, did not only prompt that King and <hi>Oliver,</hi> to deſtroy the Properties of the People, and many ways to infringe upon the Liberty of Parliament; but alſo with, the Uſurper, exerted all the ſeverities of aboundleſs Tyranny againſt the Church, and on all Subjects, that in ſuch a <hi>Series</hi> of Rebellion durſt ſo much as ſpeak a word in vindication of Loyalty: Nay, for very Thoughts, they cou'd ſcarce eſcape from being arraign'd as Criminals.</p>
+            <p>
+               <hi>Firſt,</hi> All his malicious Babling againſt the three, Illuſtrious Monarchs of the Scotiſh Line, is but the dreggs of the old Poyſon, which has been ſo cor<g ref="char:EOLhyphen"/>rected by Loyal and learned Doctors in their ſeveral Books with a thouſand Antidotes, that I may reaſonably gueſs it has loſt all power and ſtrength, now to do any conſiderate Perſon harm. Therefore I'll let him alone Unanſwer'd, to lurk in his Hole, and there diſembogue his venom to no purpoſe.</p>
+            <p>Now, we come to the <hi>Engliſh-Phonix</hi> Q. <hi>Elizabeth.</hi> In reckoning up her difficulties, he has willfully omitted one, and that perhaps not the leaſt, <hi>viz.</hi> the Incumberances and Diſturbances her Government was ſubject to, by reaſon of the <hi>Puritans,</hi> the firſt, and therefore the beſt Edition of <hi>Whig;</hi> tho even then, they gave ſhrowd teſtimonies of what they have ſince proved. But ſhe wiſely betimes made a Rod for their B—, Remember her <hi>Penal-Laws,</hi> —Ah— did it ſmart then— yes truly; <hi>Whig,</hi> was then in his Infancy; and a Rod was as fit for his Breech, as an Halter for <hi>Guido</hi>'s Neck: but being grown up from an unlucky Boy to a proper Man, he fears not the Laſh, having out lived the Whip. To difficulty of that Queens, add the reſt, as he; and then, if he look through a True Glaſs, let him never take my word if he does not ſee all thoſe inconveniencies either removed or overcome: By whom? —even by no body but meer <hi>Torys:</hi> and how comes it to paſs, That thoſe very perſons, who had ſuch Conduct and Integri<g ref="char:EOLhyphen"/>ty, and Loyalty, and Love, then, ſhould not be allowed to have the ſame Now? and be as able at this day to make a King and People Happy, as they were to make a Queen and her Government eaſie. This is all he gets by his inſtance of that Queen; unfortunate man, to ſhot Darts that fall on his own Head. Hold! let me add one word more, and this it is, If he had that great Love for the King, as he pretends to, he might only by changing a Queen for a King, make her Character fit him to a hair. But this King, as well as the reſt, is, in his gibberiſh, <hi>rather a Dragon than a St.</hi> George, <hi>K. of Clouts, a Duke of</hi> Venice, or any thing good Lord, as long as he has a <hi>Tory</hi> about him; That's the <hi>Dunſtable Engliſh</hi> of his whole Drift and Libel.</p>
+            <p>I give him many thanks for his <hi>Salvo,</hi> and Sweetnings to the <hi>Church of England;</hi> but could heartily wiſh he would afford us fewer of his fair words, provided his affection was real, which I ſhould be glad to ſee: for I love <hi>to follow Peace with all men.</hi>
+            </p>
+            <pb n="15" facs="tcp:151731:7" rendition="simple:additions"/>
+            <p>He tells us a great Story of the <hi>want of Warmth</hi> in <hi>Tory. How they ſuffer people to inſult the Government in every Coffee-Houſe;</hi> and many other Faults, <hi>for want of warmth,</hi> he lays to our charge; But to diſcharge himſelf, has not brought one Loyal Inſtance of his apprehending any inconſiderate, or malicious Babler. True, he tells us ſtrange things that he did for <hi>Noll;</hi> but not a word of his performances now, except it be the worthy Actions of the Parliament he ſpeaks on, <hi>Pag</hi> 16th, and in other places; which if you mark what I ſaid about the Convention, you will find to be the very Deeds of the <hi>Church of England.</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>f he ſays, he'<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> diſencourag'd by the Court, 'tis a great untruth.</p>
+            <p>Now, we come to the main thing, whether <hi>Whig</hi> or <hi>Tory</hi> has done more for the love of their King and Country better; a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d which <hi>Party</hi> as the caſe now ſtands, are fitteſt for Adminiſtration of Publick Affairs,</p>
+            <p>I have before proved even demonſtrativers, That the <hi>Torys</hi> ſent <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the King, and in the Convention were far Superior in Number to the <hi>Whigs;</hi> ſo that all the Merits of the one and the other are properly ours: That's a clear Caſe.</p>
+            <p>Here we, as before, diſown (as not belonging to us) all thoſe that have made <hi>publick rejoycing at the ſlaughter of our Armies, and deſtruction of our Fleets.</hi> While he would exclude all from his Party (and I could believe him too if he were not ſo fond a lover of himſelf) that is as bad as <hi>Judas.</hi>
+            </p>
+            <p>One ſwinging Argument that he uſes againſt our loving the King, and being intruſted is grounded upon the falſe ſuppoſition, That the Church Party are two much enclined to King <hi>James:</hi> and <hi>that we have not made our reconcilliation with him deſperate,</hi> which is a manifeſt falſity: for did not the Clergy diſcountenance his proceedings when King? Did not they ſend for the P. of <hi>Orange?</hi> Did not they put the Crown upon his Head? Did not the <hi>Torys</hi> beat the late King out of <hi>Ireland?</hi> And did not the Church Par<g ref="char:EOLhyphen"/>ty yearly in Parliament raiſe Money and furniſh their Preſent Majeſties with Men and Money to carry on the War by Sea and Land againſt him and <hi>France.</hi> And is not all this enough, think you to prove our Love and Loy<g ref="char:EOLhyphen"/>ty to the preſent King, and render all hopes of reconcilliation with the o<g ref="char:EOLhyphen"/>ther as deſperate as poſſible can be? This proves his talk, about King <hi>de defacto,</hi> falſe, ſhewing how <hi>far we own our ſelves King</hi> William<hi>'s Subjects,</hi> and <hi>that we are as well for the Government as in it.</hi> This proves his malici<g ref="char:EOLhyphen"/>ous words (<hi>Pag.</hi> 21.) to be meer aſperſion, and laſtly, invalidates his diſ<g ref="char:EOLhyphen"/>courſe of Loyalty (<hi>Pag.</hi> 22.).</p>
+            <p>Let me preſent you with one inſtance on his ſide, of which he has plenty; but that (<hi>Pag.</hi> 23.) ſhall ſerve at this time; where he makes the King and Queen put a Trick upon the Country in a Proclamation about forged Paſſes; and in 40 places inſinuates that the King is either very Puſilanimous or what's worſe, one of ſmall skill in the choice of his Miniſters: I can furniſh you with ſtore of ſuch patterns of his Love, Service, and Duty.
+<pb n="16" facs="tcp:151731:8"/>As for his Stories (<hi>Pag.</hi> 24.) and elſewhere, they being doubtful, and of dangerous Conſequence to meddle with, I leave them to our Auguſt Parliament to examine who are the beſt Judges of ſuch things.</p>
+            <p>But diſtruſting all his pretences of Love and Service to the King will hardly procure his Advancement, the thing he chiefly aims at, and be Mo<g ref="char:EOLhyphen"/>tives ſtronge enough to degrade the honeſt <hi>Tory:</hi> he comes to his laſt Shift which is his Wit and Parts: Theſe will do the deed ſute. But what if we ſhould grant that the <hi>Whigs</hi> Parts are as good as any <hi>Torys</hi> whatſoever? does it follow that a noiſe and diſturbance muſt be made at this juncture with Turning-out and Taking-in? Let him comfort himſelf and reſt ſatisfied with this, that when the King is ſenſible of any mans ſignal Service, the ſame ſhall be rewarded and according to his Parts and Merits advanc'd: and on the other hand Trea;chery ſhall meet with condign Puniſhment. The King graces the one with Favour, and executes Juſtice on the other. The Parliament are now taking cognizance of the Army and Fleet: therefore, I paſs by what he ſays about ſuch things as becomes me in ſilence.</p>
+            <p>Being arived at <hi>Pag.</hi> 26. I ſaw plainly what he would be at: For he brings <hi>Oliver</hi> upon the Stage, pulling down the Nobility and Clergy; and leaving the Gentry nothing to do but pair their Nails. This he applauds as a delicate pattern to govern by: O brave <hi>Oliver!</hi> who inſtead of Peers em<g ref="char:EOLhyphen"/>ployed Porters, Draymen and Taylors, <hi>Exit</hi> Barron, Enter Borther, and in the room of a learned Clergy introduced Coblers, Weavers and Carmen. Here's fine Work; enter ſeven Deivils <hi>Solus:</hi> And what's all this Work for, but to try if <hi>Whig</hi> can any ways rivet himſelf and Gang into the ſole managment of Affairs for <hi>Oliver;</hi> by the help of <hi>Whig,</hi> yea, ſuch poor ſcoundril <hi>Whigs</hi> as theſe, over-topt the Clergy, Nobility and Gentry, who all combin'd againſt him? O fine <hi>Oliver!</hi> And this is the Play he would have acted again, would the King but take his Council. Well, we'll grant <hi>Oliver,</hi> beloved <hi>Oliver,</hi> did Wonders; but he once dead, the ſame Blades cou'd not keep Cart on Wheels. The late King alſo thought to work mira<g ref="char:EOLhyphen"/>cles with the ſame Tools, but I need not tell you the iſſue. Who is ſo mad alſo to think that Noblemen and Gentry, whoſe Element is Buſineſs, is not much fitter for Counſellors, Generals, <hi>&amp;c.</hi> than a Weavor, or a Major General Cobler: The firſt are leſs apt to be Treacherous too one would think: being more ſenſible of Diſgrace, which thereby is like to fall on themſelves and their Family. But what need I ſay more, ſince the difficulties and ill ſucceſs of ſuch attempts upon the great ones, will in all probability prevent the like for the future. In fine, I believe ſome <hi>Whigs</hi> are Loyal to their Majeſties: and I wiſh if there be any bad <hi>Torys</hi> in Pla<g ref="char:EOLhyphen"/>ces, and honeſt <hi>Whigs</hi> out, fit for them that an exchange were made for the King and Countries Good. But to ſee the alteration of the whole frame of Government in Church and State for the promotion of ſuch as
+<pb n="17" facs="tcp:151731:8" rendition="simple:additions"/>our Libeller, would its to be feared ruin both King and Country, which every true born Engliſh man would be ſorry to ſee: This Subject alſo leave for thoſe who are beſt able to diſcuſs it.</p>
+            <p>To his Diſcourſe concerning which Party are faſter Friends one to ano<g ref="char:EOLhyphen"/>ther, I will only ſay that I wiſh all would joyn this the Common Intereſt of their King and Country; to which diſtinguiſhing Names, Factions and Parties are diametrically oppoſite: and I deſire all to lay a ſide their vio<g ref="char:EOLhyphen"/>lent Heats and in ſtriving for Places, Power; and rather then thruſt themſelves forward with Violence and Avarice, be gently called for by their Soveraign, the beſt Judge of Deſert, to Preferment.</p>
+            <p>I will conclude my Letter, with a memorable Example of Candor, out of <hi>Valerius Maximus,</hi> who ſpeaks of a certain <hi>Spartan,</hi> famous both for Nobili<g ref="char:EOLhyphen"/>ty and Virtue, whoſe endeavours for Magiſtracy being unſucceſsful, only ſaid <hi>[Maximae ſibi laetitiae eſſe praedicabit, quod aliquos patria ſua ſe meliores viros haberet]</hi> that it was his greateſt joy to ſee, that his Country had bet<g ref="char:EOLhyphen"/>ter Men, that were fitter by their Deſerts for Offices, than himſelf. This, if Pride and Self-intereſt would ſuffer to be imitated, would render the want of Employ as laudable as the enjoyment thereof is Honorable: To which Sir, I doubt not but you will agree with</p>
+            <closer>
+               <signed>Your Humble Servant.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:151731:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
